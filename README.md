@@ -5,4 +5,4 @@ This is a line from RStudio
 
 ---
 
-**THis one is bold or maybe italicised**
+**This one is bold or maybe italicised**
